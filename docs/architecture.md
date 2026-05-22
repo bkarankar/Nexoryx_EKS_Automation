@@ -1,9 +1,3 @@
-# Architecture
+# Nexoryx_EKS_Automation Architecture
 
-AWS VPC
-  |
-  +--- EKS
-  |      |
-  |      +--- Managed Node Groups
-  |      +--- Ingress
-  |      +--- Monitoring
+Production-grade infrastructure automation.
